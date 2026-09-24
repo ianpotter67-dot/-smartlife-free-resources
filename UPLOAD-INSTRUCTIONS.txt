@@ -1,0 +1,7 @@
+UPLOAD THESE TO THE ROOT OF THE GITHUB REPOSITORY
+
+1. index.html
+2. Your approved free checklist PDF renamed EXACTLY:
+   RAMS-Pre-Send-Checklist.pdf
+
+The green “Get the Free Checklist” button points to that exact PDF filename.
